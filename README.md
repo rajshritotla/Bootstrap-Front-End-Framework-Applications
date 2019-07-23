@@ -8,5 +8,6 @@ https://getbootstrap.com/docs/4.3/getting-started/introduction/
 
 # IDE
 Few suggestions:
-Visual Studio
 Sublime
+Visual Studio
+
