@@ -1,9 +1,5 @@
-# Bootstrap Front End Framework
+# About
 Pages designed using Bootstrap Front-end framework
-
-```bash
-https://getbootstrap.com/
-```
 
 # Getting Started
 ```bash
